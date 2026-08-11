@@ -1,0 +1,6 @@
+streamlit
+pandas
+altair
+pyarrow
+kafka-python
+pyspark==4.2.0
